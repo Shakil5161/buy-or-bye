@@ -64,6 +64,9 @@ a{
 .for-woman-product p{
     font-size: 12px;
 }
+.footer{
+    background-color: #F0F0F0;
+}
 
 @media (max-width:768px){
     .service, .for-man{
